@@ -7,3 +7,4 @@ public class AppImpl {
         return someInt;
     }
 }
+
